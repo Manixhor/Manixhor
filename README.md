@@ -7,6 +7,7 @@
 🔍 One of my standout projects was **Water Potability Prediction using Machine Learning**, where I:
 - 🧼 Preprocessed real-world water quality data
 - 📈 Achieved an impressive **86% accuracy**
+  
 💻 I also developed a **Reverse Auction System**, enabling sellers to place competitive bids 💸. This project gave me hands-on experience in:
 - 🛠️ Software development
 - 🔁 System reliability and real-time bidding logic
