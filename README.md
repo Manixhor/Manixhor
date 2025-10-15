@@ -3,7 +3,7 @@
 ---
 
 👋 **Hi, I'm Mani**, a recent graduate in **Computer Science Engineering** from **VIT Amaravati** 🎓. Over the past few years, I've cultivated a deep passion for **data-driven problem solving** and building impactful solutions 💡.
----
+
 🔍 One of my standout projects was **Water Potability Prediction using Machine Learning**, where I:
 - 🧼 Preprocessed real-world water quality data
 - 📈 Achieved an impressive **86% accuracy**
@@ -14,6 +14,7 @@
 - ☁️ **AWS Cloud Practitioner**
 - ⚡ **Microsoft Power Platform**
 - 🐍 **CS50’s Python Programming**
+
 🚀 As a fresher, I’m eager to take on **real-world challenges**, learn from experienced teams, and contribute meaningfully to innovative projects. I’m excited about the opportunity to **grow**, **collaborate**, and bring value to a team like yours 🌱🤝.
 
 ---
