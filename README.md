@@ -1,9 +1,28 @@
 ## Hi there 👋
 
-Hello, my name is Manikanta, and I’m a recent graduate in Computer Science Engineering from Vellore Institute Technology  Amaravati. 
-Over the past few years, I developed a strong interest in data and problem solving. One of my prominent projects was Water Potability Prediction using Machine Learning, where I worked with data preprocessing, Using ML models I got accuracy of 86%  and I have used some of the ML algorithms like Logistic regression,Random Forest, support vector machine and KNN algorithm  I also built a Reverse Auction System where sellers could place lower bids than their opponents. I gained hands-on experience with software development, and reliability in a system.
-To further strengthen my technical foundation, I’ve completed certifications in AWS Cloud practitioner, Microsoft Power Platform, CS50 in Python programming. These have enhanced both my analytical and technical capabilities.
-As a fresher, I’m eager to tackle real-world problems, and I’m excited about the opportunity to grow and contribute to a team like yours.
+Absolutely, Mani! Here's a polished and emoji-enhanced version of your self-introduction that highlights your strengths and enthusiasm:
+
+---
+
+👋 **Hi, I'm Manikanta**, a recent graduate in **Computer Science Engineering** from **VIT Amaravati** 🎓. Over the past few years, I've cultivated a deep passion for **data-driven problem solving** and building impactful solutions 💡.
+
+🔍 One of my standout projects was **Water Potability Prediction using Machine Learning**, where I:
+- 🧼 Preprocessed real-world water quality data
+- 🤖 Applied ML algorithms like **Logistic Regression**, **Random Forest**, **SVM**, and **KNN**
+- 📈 Achieved an impressive **86% accuracy**
+
+💻 I also developed a **Reverse Auction System**, enabling sellers to place competitive bids 💸. This project gave me hands-on experience in:
+- 🛠️ Software development
+- 🔁 System reliability and real-time bidding logic
+  
+📚 To strengthen my technical foundation, I earned certifications in:
+- ☁️ **AWS Cloud Practitioner**
+- ⚡ **Microsoft Power Platform**
+- 🐍 **CS50’s Python Programming**
+🚀 As a fresher, I’m eager to take on **real-world challenges**, learn from experienced teams, and contribute meaningfully to innovative projects. I’m excited about the opportunity to **grow**, **collaborate**, and bring value to a team like yours 🌱🤝.
+
+---
+
 
 <!--
 **Manixhor/Manixhor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
