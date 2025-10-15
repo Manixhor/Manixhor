@@ -1,19 +1,14 @@
 
-Absolutely, Mani! Here's a polished and emoji-enhanced version of your self-introduction that highlights your strengths and enthusiasm:
 
 ---
 
-👋 **Hi, I'm Manikanta**, a recent graduate in **Computer Science Engineering** from **VIT Amaravati** 🎓. Over the past few years, I've cultivated a deep passion for **data-driven problem solving** and building impactful solutions 💡.
-
+👋 **Hi, I'm Mani**, a recent graduate in **Computer Science Engineering** from **VIT Amaravati** 🎓. Over the past few years, I've cultivated a deep passion for **data-driven problem solving** and building impactful solutions 💡.
 🔍 One of my standout projects was **Water Potability Prediction using Machine Learning**, where I:
 - 🧼 Preprocessed real-world water quality data
-- 🤖 Applied ML algorithms like **Logistic Regression**, **Random Forest**, **SVM**, and **KNN**
 - 📈 Achieved an impressive **86% accuracy**
-
 💻 I also developed a **Reverse Auction System**, enabling sellers to place competitive bids 💸. This project gave me hands-on experience in:
 - 🛠️ Software development
 - 🔁 System reliability and real-time bidding logic
-  
 📚 To strengthen my technical foundation, I earned certifications in:
 - ☁️ **AWS Cloud Practitioner**
 - ⚡ **Microsoft Power Platform**
