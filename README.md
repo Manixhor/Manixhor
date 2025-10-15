@@ -11,6 +11,7 @@
 💻 I also developed a **Reverse Auction System**, enabling sellers to place competitive bids 💸. This project gave me hands-on experience in:
 - 🛠️ Software development
 - 🔁 System reliability and real-time bidding logic
+  
 📚 To strengthen my technical foundation, I earned certifications in:
 - ☁️ **AWS Cloud Practitioner**
 - ⚡ **Microsoft Power Platform**
