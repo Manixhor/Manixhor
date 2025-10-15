@@ -1,4 +1,3 @@
-## Hi there 👋
 
 Absolutely, Mani! Here's a polished and emoji-enhanced version of your self-introduction that highlights your strengths and enthusiasm:
 
