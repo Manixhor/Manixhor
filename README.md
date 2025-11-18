@@ -17,7 +17,10 @@ I’m a Python developer and problem-solver who enjoys building clean, reliable,
 * ☁️ AWS Cloud Basics
 
 🎯 What Drives Me
+
 I love building meaningful solutions, learning continuously, and writing software that solves real problems with clarity and precision. My goal is to grow as a developer while contributing to impactful projects and collaborative teams.
+
 📫 Connect With Me
+
 Open to learning, building, and collaborating on interesting ideas.
 If you’re working on something exciting or exploring new ideas, I’d love to connect and collaborate.
