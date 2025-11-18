@@ -2,6 +2,7 @@
 
 👋 Hi, I’m Mani
 I’m a Python developer and problem-solver who enjoys building clean, reliable, and scalable software systems. I focus on writing logical, efficient code and turning ideas into practical, production-ready solutions.
+
 💡 What I Work On
 * 🧠 Python development with strong foundations in OOP & algorithms
 * 🤖 Machine Learning projects focused on real-world predictions & data analysis
@@ -14,6 +15,7 @@ I’m a Python developer and problem-solver who enjoys building clean, reliable,
 * ⚙️ Data Structures & Algorithms
 * 🤖 Machine Learning & AI
 * ☁️ AWS Cloud Basics
+
 🎯 What Drives Me
 I love building meaningful solutions, learning continuously, and writing software that solves real problems with clarity and precision. My goal is to grow as a developer while contributing to impactful projects and collaborative teams.
 📫 Connect With Me
