@@ -12,7 +12,7 @@ I’m a Python developer and problem-solver who enjoys building clean, reliable,
 🔧 Technical Toolkit
 * 🐍 Python | 🗄️ SQL
 * 🌐 HTML, CSS
-* ⚙️ Data Structures & Algorithms
+
 * 🤖 Machine Learning & AI
 * ☁️ AWS Cloud Basics
 
