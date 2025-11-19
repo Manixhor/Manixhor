@@ -12,7 +12,9 @@ Hello, I’m Mani—a Python developer who excels in solving complex problems an
 - Machine Learning and AI
 
 **What Motivates Me:**
+
 I am passionate about developing impactful solutions, learning new technologies, and writing clear, reliable software. My goal is to contribute to meaningful projects and collaborative teams while growing as a developer.
 
 **Connect With Me:**
+
 I am open to new opportunities, collaborations, and interesting projects. If you’re exploring new ideas or working on something exciting, I would love to connect and collaborate.
