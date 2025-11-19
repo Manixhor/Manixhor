@@ -1,26 +1,18 @@
+Hello, I’m Mani—a Python developer who excels in solving complex problems and creating reliable, scalable software solutions. My focus is on thoughtful software design, efficient code, and transforming ideas into production-ready systems.
 
+**What I Specialize In:**
+- Python development with strong foundations in object-oriented programming and algorithms
+- Building robust backend systems using structured, maintainable architecture
+- Web development using HTML and CSS for responsive design
+- Secure coding practices, including validation and user-focused workflows
 
-👋 Hi, I’m Mani
-I’m a Python developer and problem-solver who enjoys building clean, reliable, and scalable software systems. I focus on writing logical, efficient code and turning ideas into practical, production-ready solutions.
+**Technical Toolkit:**
+- Python and SQL
+- HTML and CSS
+- Machine Learning and AI
 
-💡 What I Work On
-* 🧠 Python development with strong foundations in OOP & algorithms
-* 🤖 Machine Learning projects focused on real-world predictions & data analysis
-* 🏗️ Backend systems built with clean architecture and structured design
-* 🌐 Web development with HTML & CSS
-* 🔐 Secure coding practices with validation and user-centric workflows
-🔧 Technical Toolkit
-* 🐍 Python | 🗄️ SQL
-* 🌐 HTML, CSS
+**What Motivates Me:**
+I am passionate about developing impactful solutions, learning new technologies, and writing clear, reliable software. My goal is to contribute to meaningful projects and collaborative teams while growing as a developer.
 
-* 🤖 Machine Learning & AI
-* ☁️ AWS Cloud Basics
-
-🎯 What Drives Me
-
-I love building meaningful solutions, learning continuously, and writing software that solves real problems with clarity and precision. My goal is to grow as a developer while contributing to impactful projects and collaborative teams.
-
-📫 Connect With Me
-
-Open to learning, building, and collaborating on interesting ideas.
-If you’re working on something exciting or exploring new ideas, I’d love to connect and collaborate.
+**Connect With Me:**
+I am open to new opportunities, collaborations, and interesting projects. If you’re exploring new ideas or working on something exciting, I would love to connect and collaborate.
