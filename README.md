@@ -1,4 +1,4 @@
-Hello, I’m Mani—a Python developer who excels in solving complex problems and creating reliable, scalable software solutions. My focus is on thoughtful software design, efficient code, and transforming ideas into production-ready systems.
+Hello, I’m Mani a Python developer who excels in solving complex problems and creating reliable, scalable software solutions. My focus is on thoughtful software design, efficient code, and transforming ideas into production-ready systems.
 
 **What I Specialize In:**
 - Python development with strong foundations in object-oriented programming and algorithms
