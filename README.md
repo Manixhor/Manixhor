@@ -9,7 +9,8 @@ Hello, I’m Mani a Python developer who excels in solving complex problems and 
 **Technical Toolkit:**
 - Python and SQL
 - HTML and CSS
-- Machine Learning and AI
+- AI and ML
+- DJANGO
 
 **What Motivates Me:**
 
