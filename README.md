@@ -11,6 +11,7 @@ Hello, I’m Mani a Python developer who excels in solving complex problems and 
 - HTML and CSS
 - AI and ML
 - DJANGO
+- FastAPI
 
 **What Motivates Me:**
 
