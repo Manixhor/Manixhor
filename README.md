@@ -3,7 +3,7 @@ Hello, I’m Mani a Python developer who excels in solving complex problems and 
 **What I Specialize In:**
 - Python development with strong foundations in object-oriented programming and algorithms
 - Building robust backend systems using structured, maintainable architecture
-- Web development using HTML and CSS for responsive design
+- Web development using HTML,CSS and JS for responsive design
 - Secure coding practices, including validation and user-focused workflows
 
 **Technical Toolkit:**
