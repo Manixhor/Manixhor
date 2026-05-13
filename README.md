@@ -2,7 +2,7 @@ Hello, I’m Mani, a Python and Django developer passionate about building scala
 
 My experience includes developing HRMS modules, workflow automation systems, RESTful APIs, and deployed full-stack applications using Python, Django, MySQL, and Django REST Framework.
 
-**Technical Skills:**
+## Technical Skills:
 • Python, SQL, Bash  
 • Django, Django REST Framework (DRF)  
 • HTML, CSS, JavaScript  
@@ -10,11 +10,11 @@ My experience includes developing HRMS modules, workflow automation systems, RES
 • REST APIs, OOP, Data Structures & Algorithms  
 • Git, Postman, Render  
 
-**What Motivates Me:**
+## What Motivates Me:**
 
 I’m particularly interested in backend development, workflow automation, scalable system design, and user-focused application development.
 
-**Connect With Me:**
+## Connect With Me:
 
 I’m open to new opportunities, collaborations, and backend development projects. Feel free to connect if you’re working on scalable web applications, Python/Django development, or innovative software solutions.
 
