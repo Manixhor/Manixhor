@@ -1,22 +1,25 @@
-Hello, I’m Mani a Python developer who excels in solving complex problems and creating reliable, scalable software solutions. My focus is on thoughtful software design, efficient code, and transforming ideas into production-ready systems.
+Hello, I’m Mani, a Python and Django developer passionate about building scalable backend systems and real-world web applications. I enjoy solving practical problems through clean architecture, efficient APIs, and maintainable software design.
 
-**What I Specialize In:**
-- Python development with strong foundations in object-oriented programming and algorithms
-- Building robust backend systems using structured, maintainable architecture
-- Web development using HTML,CSS and JS for responsive design
-- Secure coding practices, including validation and user-focused workflows
+My experience includes developing HRMS modules, workflow automation systems, RESTful APIs, and deployed full-stack applications using Python, Django, MySQL, and Django REST Framework.
 
-**Technical Toolkit:**
-- Python and SQL
-- HTML and CSS
-- AI and ML
-- DJANGO REST Framework 
-- FastAPI
+**Technical Skills:**
+• Python, SQL, Bash  
+• Django, Django REST Framework (DRF)  
+• HTML, CSS, JavaScript  
+• MySQL, PostgreSQL, SQLite  
+• REST APIs, OOP, Data Structures & Algorithms  
+• Git, Postman, Render  
 
 **What Motivates Me:**
 
-I am passionate about developing impactful solutions, learning new technologies, and writing clear, reliable software. My goal is to contribute to meaningful projects and collaborative teams while growing as a developer.
+I’m particularly interested in backend development, workflow automation, scalable system design, and user-focused application development.
 
 **Connect With Me:**
 
-I am open to new opportunities, collaborations, and interesting projects. If you’re exploring new ideas or working on something exciting, I would love to connect and collaborate.
+I’m open to new opportunities, collaborations, and backend development projects. Feel free to connect if you’re working on scalable web applications, Python/Django development, or innovative software solutions.
+
+## Featured Project
+
+🚀 SpendWise – Personal Finance Tracker  
+• Live Demo: https://spendwise-8ewg.onrender.com/  
+• Source Code: https://github.com/Manixhor/spendwise
