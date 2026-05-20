@@ -10,7 +10,7 @@ My experience includes developing HRMS modules, workflow automation systems, RES
 • REST APIs, OOP, Data Structures & Algorithms  
 • Git, Postman, Render, Whiteflank
 
-## What Motivates Me:**
+## What Motivates Me:
 
 I’m particularly interested in backend development, workflow automation, scalable system design, and user-focused application development.
 
