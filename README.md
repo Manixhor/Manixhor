@@ -20,4 +20,5 @@ I’m particularly interested in backend development, workflow automation, scala
 • Live Demo: https://spendwise-8ewg.onrender.com/  
 • Source Code: https://github.com/Manixhor/spendwise
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Manixhor&show_icons=true&theme=tokyonight)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Manixhor&show_icons=true&theme=tokyonight)
