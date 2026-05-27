@@ -1,4 +1,4 @@
-Hello, I’m Mani, a Python and Django developer passionate about building scalable backend systems and real-world web applications. I enjoy solving practical problems through clean architecture, efficient APIs, and maintainable software design.
+I'm Mani — Python/Django developer. I've shipped production HRMS systems, automated workflows, and deployed full-stack apps to the cloud. I build things that actually run
 
 My experience includes developing HRMS modules, workflow automation systems, RESTful APIs, and deployed full-stack applications using Python, Django, MySQL, and Django REST Framework.
 
@@ -14,12 +14,10 @@ My experience includes developing HRMS modules, workflow automation systems, RES
 
 I’m particularly interested in backend development, workflow automation, scalable system design, and user-focused application development.
 
-## Connect With Me:
-
-I’m open to new opportunities, collaborations, and backend development projects. Feel free to connect if you’re working on scalable web applications, Python/Django development, or innovative software solutions.
-
 ## Featured Project
 
 🚀 SpendWise – Personal Finance Tracker  
 • Live Demo: https://spendwise-8ewg.onrender.com/  
 • Source Code: https://github.com/Manixhor/spendwise
+
+![Mani's GitHub stats](https://github-readme-stats.vercel.app/api?username=Manixhor&show_icons=true&theme=default)
