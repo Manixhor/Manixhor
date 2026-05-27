@@ -19,5 +19,26 @@ I’m particularly interested in backend development, workflow automation, scala
 • Live Demo: https://spendwise-8ewg.onrender.com/  
 • Source Code: https://github.com/Manixhor/spendwise
 
-![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Manixhor&show_icons=true&theme=tokyonight) ![GitHub Streak](https://streak-stats.demolab.com?user=Manixhor&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Manixhor&show_icons=true&theme=tokyonight) 
+![GitHub Streak](https://streak-stats.demolab.com?user=Manixhor&theme=tokyonight)
 
+
+
+
+# GitHub Stats
+![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Manixhor&show_icons=true&theme=tokyonight)
+
+# Top Languages
+![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Manixhor&layout=compact&theme=tokyonight)
+
+# GitHub Streak
+![GitHub Streak](https://streak-stats.demolab.com?user=Manixhor&theme=tokyonight)
+
+# Profile Views
+![Profile Views](https://komarev.com/ghpvc/?username=Manixhor&color=blueviolet)
+
+# Trophies
+![Trophies](https://github-profile-trophy.vercel.app/?username=Manixhor&theme=tokyonight)
+
+# Activity Graph
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Manixhor&theme=tokyo-night)
