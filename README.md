@@ -1,6 +1,5 @@
 I'm Mani — Python/Django developer. I've shipped production HRMS systems, automated workflows, and deployed full-stack apps to the cloud. I build things that actually run
 
-My experience includes developing HRMS modules, workflow automation systems, RESTful APIs, and deployed full-stack applications using Python, Django, MySQL, and Django REST Framework.
 
 ## Technical Skills:
 • Python, SQL, Bash  
@@ -20,5 +19,6 @@ I’m particularly interested in backend development, workflow automation, scala
 • Live Demo: https://spendwise-8ewg.onrender.com/  
 • Source Code: https://github.com/Manixhor/spendwise
 
-
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Manixhor&layout=compact&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Manixhor&show_icons=true&theme=tokyonight&cache_seconds=1800)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Manixhor&show_icons=true&theme=tokyonight)
