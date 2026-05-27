@@ -26,7 +26,7 @@ I’m particularly interested in backend development, workflow automation, scala
 
 
 # GitHub Stats
-![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Manixhor&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Manixhor&show_icons=true&theme=tokyonight&hide=issues,contribs)
 
 # GitHub Streak
 ![GitHub Streak](https://streak-stats.demolab.com?user=Manixhor&theme=tokyonight)
