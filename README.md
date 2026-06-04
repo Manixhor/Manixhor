@@ -1,5 +1,4 @@
 
-![Profile Views](https://komarev.com/ghpvc/?username=Manixhor&color=blueviolet)
 
 I'm Mani — Python/Django developer. I've shipped production HRMS systems, automated workflows, and deployed full-stack apps to the cloud. I build things that actually run...
 
@@ -34,3 +33,7 @@ I’m particularly interested in backend development, workflow automation, scala
 
 # Activity Graph
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Manixhor&theme=tokyo-night)
+
+
+
+![Profile Views](https://komarev.com/ghpvc/?username=Manixhor&color=blueviolet)
