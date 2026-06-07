@@ -18,7 +18,7 @@ I’m particularly interested in backend development, workflow automation, scala
 ## Featured Project
 
 🚀 SpendWise – Personal Finance Tracker  
-• Live Demo: https://site--spendwise--m9lhjm5ftxzt.code.run/dashboard/
+• Live Demo: https://site--spendwise--m9lhjm5ftxzt.code.run/
 
 • Source Code: https://github.com/Manixhor/spendwise
 
