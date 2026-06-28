@@ -31,8 +31,6 @@ I’m particularly interested in backend development, workflow automation, scala
 
 
 
-# Activity Graph
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Manixhor&theme=tokyo-night)
 
 
 
