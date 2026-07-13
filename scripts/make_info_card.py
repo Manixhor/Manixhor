@@ -14,7 +14,7 @@ HERE = os.path.dirname(os.path.abspath(__file__))
 OUT = os.path.join(HERE, "..", "info-card.svg")
 STATIC = bool(os.environ.get("STATIC"))
 
-W, H = 480, 376
+W, H = 480, 424
 PAD = 20
 TITLEBAR_H = 30
 KEY_X = PAD
@@ -47,21 +47,23 @@ HOST = "Manixhor"   # shown as  you@github  in the header
 
 ROWS = [
     ("host",),
-    ("kv", "Name", "Mani"),
-    ("kv", "Role", "Python / Django Developer"),
-    ("kv", "Focus", "Backend systems + automation"),
-    ("kv", "Project", "SpendWise - Finance Tracker"),
+    ("kv", "Name", "Manikanta Gururam"),
+    ("kv", "Role", "Python / Django Backend Developer"),
+    ("kv", "Focus", "REST APIs, HRMS, automation"),
+    ("kv", "Exp", "6+ months production systems"),
     ("gap",),
     ("sec", "Stack"),
-    ("kv", "Backend", "Python, Django, DRF"),
-    ("kv", "Frontend", "HTML, CSS, JavaScript"),
-    ("kv", "Database", "MySQL, PostgreSQL, SQLite"),
-    ("kv", "Tools", "Git, Postman, Render, Bash"),
+    ("kv", "Backend", "Python, Django, DRF, FastAPI"),
+    ("kv", "Frontend", "HTML5, CSS3, JavaScript"),
+    ("kv", "Database", "PostgreSQL, MySQL, SQLite"),
+    ("kv", "Cloud", "Render, Gunicorn, Linux/Unix"),
+    ("kv", "Tools", "GitHub, Postman, VS Code, Bash"),
     ("gap",),
     ("sec", "Highlights"),
-    ("bul", "Shipped production HRMS systems"),
-    ("bul", "Built automated workflows"),
-    ("bul", "Deploys full-stack apps to cloud"),
+    ("bul", "Built 7 production HRMS modules"),
+    ("bul", "Reduced manual HR tracking by 100%"),
+    ("bul", "SpendWise PWA deployed on Render"),
+    ("bul", "Secured 10+ JWT API endpoints"),
 ]
 
 
