@@ -3,7 +3,6 @@
 I'm Mani — Python/Django developer. I've shipped production HRMS systems, automated workflows, and deployed full-stack apps to the cloud. I build things that actually run...
 
 
-
 ## Technical Skills:
 • Python, SQL, Bash  
 • Django, Django REST Framework (DRF)    
