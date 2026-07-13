@@ -14,7 +14,7 @@ HERE = os.path.dirname(os.path.abspath(__file__))
 OUT = os.path.join(HERE, "..", "info-card.svg")
 STATIC = bool(os.environ.get("STATIC"))
 
-W, H = 480, 424
+W, H = 480, 530
 PAD = 20
 TITLEBAR_H = 30
 KEY_X = PAD
@@ -47,8 +47,8 @@ HOST = "Manixhor"   # shown as  you@github  in the header
 
 ROWS = [
     ("host",),
-    ("kv", "Name", "Manikanta Gururam"),
-    ("kv", "Role", "Python / Django Backend Developer"),
+    ("kv", "Name", "Mani"),
+    ("kv", "Role", "Backend + Full Stack Developer"),
     ("kv", "Focus", "REST APIs, HRMS, automation"),
     ("kv", "Exp", "6+ months production systems"),
     ("gap",),
@@ -56,14 +56,20 @@ ROWS = [
     ("kv", "Backend", "Python, Django, DRF, FastAPI"),
     ("kv", "Frontend", "HTML5, CSS3, JavaScript"),
     ("kv", "Database", "PostgreSQL, MySQL, SQLite"),
-    ("kv", "Cloud", "Render, Gunicorn, Linux/Unix"),
+    ("kv", "Cloud", "Gunicorn, Linux/Unix"),
     ("kv", "Tools", "GitHub, Postman, VS Code, Bash"),
+    ("gap",),
+    ("sec", "Projects"),
+    ("bul", "SpendWise - Personal Finance Tracker"),
+    ("bul", "Water Potability Prediction System"),
+    ("bul", "PY-Vault Banking System"),
+    ("gap",),
+    ("sec", "Certifications"),
+    ("bul", "CS50 Python - Harvard University"),
     ("gap",),
     ("sec", "Highlights"),
     ("bul", "Built 7 production HRMS modules"),
     ("bul", "Reduced manual HR tracking by 100%"),
-    ("bul", "SpendWise PWA deployed on Render"),
-    ("bul", "Secured 10+ JWT API endpoints"),
 ]
 
 
