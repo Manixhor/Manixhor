@@ -1,37 +1,22 @@
+<div align="center">
 
+<table>
+<tr>
+<td valign="top"><img src="./avi-ascii.svg" width="370" alt="ASCII portrait" /></td>
+<td valign="top"><img src="./info-card.svg" width="490" alt="Experience, stack, highlights" /></td>
+</tr>
+</table>
 
-I'm Mani — Python/Django developer. I've shipped production HRMS systems, automated workflows, and deployed full-stack apps to the cloud. I build things that actually run...
+## Mani
 
+**Python/Django Developer · Backend Systems · Workflow Automation**
 
-## Technical Skills:
-• Python, SQL, Bash  
-• Django, Django REST Framework (DRF)    
-• HTML, CSS, JavaScript  
-• MySQL, PostgreSQL, SQLite  
-• REST APIs, OOP, Data Structures & Algorithms  
-• Git, Postman, Render, Whiteflank
+[![Portfolio](https://img.shields.io/badge/Portfolio-SpendWise-0d1117?style=for-the-badge&logo=vercel&logoColor=white)](https://site--spendwise--m9lhjm5ftxzt.code.run/)
+[![GitHub](https://img.shields.io/badge/GitHub-Manixhor-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Manixhor)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mani-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR-LINKEDIN-HANDLE)
 
-## What Motivates Me:
+<br>
 
-I’m particularly interested in backend development, workflow automation, scalable system design, and user-focused application development.
+<img src="./contrib-heatmap.svg" width="860" alt="GitHub contribution graph" />
 
-## Featured Project
-
-🚀 SpendWise – Personal Finance Tracker  
-• Live Demo: https://site--spendwise--m9lhjm5ftxzt.code.run/
-
-• Source Code: https://github.com/Manixhor/spendwise
-
-
-
-
-
-# GitHub Stats
-![GitHub Stats](https://github-stats-alpha.vercel.app/api?username=Manixhor&cc=000&tc=fff&ic=fff&bc=000&fork=0)
-
-
-
-
-
-
-![Profile Views](https://komarev.com/ghpvc/?username=Manixhor&color=blueviolet)
+</div>
