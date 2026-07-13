@@ -2,7 +2,7 @@
 
 <table>
 <tr>
-<td valign="top"><img src="./coding-workstation.gif" width="370" alt="Coding workstation animation" /></td>
+<td valign="top"><img src="./avi-ascii.svg" width="370" alt="ASCII portrait" /></td>
 <td valign="top"><img src="./info-card.svg" width="350" alt="Experience, stack, highlights" /></td>
 </tr>
 </table>
