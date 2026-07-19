@@ -17,9 +17,21 @@ import sys
 import requests
 from bs4 import BeautifulSoup
 
-USERNAME = os.environ.get("GH_PROFILE_USER", "YOUR_GITHUB_USERNAME")
+USERNAME = os.environ.get("GH_PROFILE_USER", "Manixhor")
 URL = f"https://github.com/users/{USERNAME}/contributions"
 OUT_PATH = os.path.join(os.path.dirname(__file__), "..", "data", "contributions.json")
+
+
+def parse_count(td, tooltip_text):
+    count_attr = td.get("data-count")
+    if count_attr and count_attr.isdigit():
+        return int(count_attr)
+
+    if re.search(r"no contributions", tooltip_text, re.I):
+        return 0
+
+    m = re.match(r"([\d,]+)", tooltip_text)
+    return int(m.group(1).replace(",", "")) if m else 0
 
 
 def fetch_days():
@@ -40,11 +52,7 @@ def fetch_days():
         td_id = td.get("id")
         tooltip_el = soup.find("tool-tip", attrs={"for": td_id}) if td_id else None
         text = tooltip_el.get_text(strip=True) if tooltip_el else ""
-        if re.search(r"no contributions", text, re.I):
-            count = 0
-        else:
-            m = re.match(r"(\d+)", text)
-            count = int(m.group(1)) if m else 0
+        count = parse_count(td, text)
         days.append({"date": date, "count": count})
 
     days.sort(key=lambda d: d["date"])
@@ -99,7 +107,7 @@ def build_data(days):
 
     return {
         "username": USERNAME,
-        "generated_at": datetime.datetime.utcnow().strftime("%Y-%m-%dT%H:%M:%SZ"),
+        "generated_at": datetime.datetime.now(datetime.UTC).strftime("%Y-%m-%dT%H:%M:%SZ"),
         "range": {"start": days[0]["date"], "end": days[-1]["date"]},
         "total_contributions": total,
         "active_days": active_days,

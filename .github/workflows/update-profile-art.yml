@@ -2,7 +2,7 @@ name: Update profile art
 
 on:
   schedule:
-    - cron: "30 2 * * *"
+    - cron: "30 2,8,14,18 * * *"
   workflow_dispatch:
 
 permissions:
