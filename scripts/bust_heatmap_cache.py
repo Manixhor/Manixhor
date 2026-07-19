@@ -30,7 +30,7 @@ updated = re.sub(
 )
 updated = re.sub(
     r'(<img src="\./contrib-heatmap\.svg\?v=[^"]+" )width="[^"]+"',
-    r'\1width="100%"',
+    r'\1width="760"',
     updated,
 )
 
