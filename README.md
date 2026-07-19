@@ -32,7 +32,7 @@ Backend-focused developer building REST APIs, HRMS modules, automation workflows
 
 <br>
 
-<img src="./contrib-heatmap.svg?v=20260719T053706Z-92c26cd8" width="860" alt="GitHub contribution graph" />
+<img src="./contrib-heatmap.svg?v=20260719T053706Z-92c26cd8" width="100%" alt="GitHub contribution graph" />
 
 </div>
 

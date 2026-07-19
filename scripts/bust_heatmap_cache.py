@@ -28,6 +28,11 @@ updated = re.sub(
     rf"\1?v={cache_key}",
     readme,
 )
+updated = re.sub(
+    r'(<img src="\./contrib-heatmap\.svg\?v=[^"]+" )width="[^"]+"',
+    r'\1width="100%"',
+    updated,
+)
 
 if updated != readme:
     with open(README_PATH, "w", encoding="utf-8") as f:
