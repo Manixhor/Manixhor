@@ -14,7 +14,7 @@ HERE = os.path.dirname(os.path.abspath(__file__))
 OUT = os.path.join(HERE, "..", "info-card.svg")
 STATIC = bool(os.environ.get("STATIC"))
 
-W, H = 480, 530
+W, H = 480, 590
 PAD = 20
 TITLEBAR_H = 30
 KEY_X = PAD
@@ -49,18 +49,19 @@ ROWS = [
     ("host",),
     ("kv", "Name", "Mani"),
     ("kv", "Role", "Backend + Full Stack Developer"),
-    ("kv", "Focus", "REST APIs, HRMS, automation"),
+    ("kv", "Focus", "REST APIs, HRMS, workflows"),
     ("kv", "Exp", "6+ months production systems"),
     ("gap",),
     ("sec", "Stack"),
     ("kv", "Backend", "Python, Django, DRF, FastAPI"),
     ("kv", "Frontend", "HTML5, CSS3, JavaScript"),
     ("kv", "Database", "PostgreSQL, MySQL, SQLite"),
-    ("kv", "Cloud", "Gunicorn, Linux/Unix"),
+    ("kv", "Deploy", "Gunicorn, Linux/Unix, cloud apps"),
     ("kv", "Tools", "GitHub, Postman, VS Code, Bash"),
     ("gap",),
     ("sec", "Projects"),
     ("bul", "SpendWise - Personal Finance Tracker"),
+    ("bul", "Production HRMS modules"),
     ("bul", "Water Potability Prediction System"),
     ("bul", "PY-Vault Banking System"),
     ("gap",),
@@ -68,8 +69,10 @@ ROWS = [
     ("bul", "CS50 Python - Harvard University"),
     ("gap",),
     ("sec", "Highlights"),
-    ("bul", "Built 7 production HRMS modules"),
-    ("bul", "Reduced manual HR tracking by 100%"),
+    ("bul", "Built 7 HRMS modules for staff use"),
+    ("bul", "Automated HR email workflows"),
+    ("bul", "Developed SpendWise DRF backend"),
+    ("bul", "Deployed production Django apps"),
 ]
 
 
