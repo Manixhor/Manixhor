@@ -16,7 +16,7 @@ Backend-focused developer building REST APIs, HRMS modules, automation workflows
 [![Portfolio](https://img.shields.io/badge/Portfolio-Mani-0d1117?style=for-the-badge&logo=render&logoColor=white)](https://mani-portfolio-dyrf.onrender.com/)
 [![GitHub](https://img.shields.io/badge/GitHub-Manixhor-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Manixhor)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Mani-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manikanta-gururam/)
-[![Email](https://img.shields.io/badge/Email-manigururam06%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:manigururam06@gmail.com)
+[![Email](https://img.shields.io/badge/Email-manigururam08%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:manigururam08@gmail.com)
 
 <br>
 
@@ -62,4 +62,4 @@ Object-oriented Python banking engine with account creation, deposits, withdrawa
 
 Python Backend Developer, Django Developer, Backend Developer, Full Stack Developer, Software Engineer Associate, and Data Engineer roles.
 
-Reach me: [manigururam06@gmail.com](mailto:manigururam06@gmail.com)
+Reach me: [manigururam08@gmail.com](mailto:manigururam08@gmail.com)
