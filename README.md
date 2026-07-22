@@ -3,6 +3,7 @@
 <img src="./contrib-heatmap.svg?v=20260721T195956Z-c4342d8e" width="760" alt="GitHub contribution graph" />
 
 <br>
+<br>
 
 <table>
 <tr>
