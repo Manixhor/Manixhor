@@ -1,5 +1,9 @@
 <div align="center">
 
+<img src="./contrib-heatmap.svg?v=20260721T195956Z-c4342d8e" width="760" alt="GitHub contribution graph" />
+
+<br>
+
 <table>
 <tr>
 <td valign="top"><img src="./profile-ascii.svg" width="370" alt="ASCII portrait" /></td>
@@ -15,7 +19,7 @@ Backend-focused developer building REST APIs, HRMS modules, automation workflows
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Mani-0d1117?style=for-the-badge&logo=render&logoColor=white)](https://mani-portfolio-dyrf.onrender.com/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Mani-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manikanta-gururam/)
-[![Email](https://img.shields.io/badge/Email-manigururam08%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:manigururam08@gmail.com)
+[![Email](https://img.shields.io/badge/Email-manigururam06%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:manigururam06@gmail.com)
 
 <br>
 
@@ -30,8 +34,6 @@ Backend-focused developer building REST APIs, HRMS modules, automation workflows
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 
 <br>
-
-<img src="./contrib-heatmap.svg?v=20260721T195956Z-c4342d8e" width="760" alt="GitHub contribution graph" />
 
 </div>
 
@@ -61,4 +63,4 @@ Object-oriented Python banking engine with account creation, deposits, withdrawa
 
 Python Backend Developer, Django Developer, Backend Developer, Full Stack Developer, Software Engineer Associate, and Data Engineer roles.
 
-Reach me: [manigururam08@gmail.com](mailto:manigururam08@gmail.com)
+Reach me: [manigururam06@gmail.com](mailto:manigururam06@gmail.com)
