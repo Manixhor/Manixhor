@@ -9,6 +9,9 @@
 
 
 
+
+
+
 <table>
 <tr>
 <td valign="top"><img src="./profile-ascii.svg" width="370" alt="ASCII portrait" /></td>
