@@ -1,17 +1,17 @@
 {
   "username": "Manixhor",
-  "generated_at": "2026-08-31T22:57:55Z",
+  "generated_at": "2026-09-01T07:55:29Z",
   "range": {
     "start": "2025-08-31",
-    "end": "2026-08-31"
+    "end": "2026-09-01"
   },
   "total_contributions": 955,
   "active_days": 170,
   "avg_per_active_day": 5.6,
   "current_streak": {
-    "length": 2,
-    "start": "2026-08-29",
-    "end": "2026-08-30"
+    "length": 0,
+    "start": null,
+    "end": null
   },
   "longest_streak": {
     "length": 46,
@@ -74,6 +74,10 @@
     {
       "month": "2026-08",
       "total": 105
+    },
+    {
+      "month": "2026-09",
+      "total": 0
     }
   ],
   "days": [
@@ -1539,6 +1543,10 @@
     },
     {
       "date": "2026-08-31",
+      "count": 0
+    },
+    {
+      "date": "2026-09-01",
       "count": 0
     }
   ]
