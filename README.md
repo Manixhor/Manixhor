@@ -49,6 +49,16 @@ Backend-focused developer building REST APIs, HRMS modules, automation workflows
 
 </div>
 
+## Open-Source Experience
+
+**Open-Source Contributor - La Suite Docs**  
+*September 2026*
+
+- Fixed a callout formatting bug in a collaborative document editor.
+- Added regression tests covering text preservation, formatting, deletion, and Undo behavior.
+- PR approved by a maintainer and merged after automated CI checks passed.
+- [Merged PR #2708](https://github.com/suitenumerique/docs/pull/2708)
+
 ## Featured Work
 
 **SpendWise - Personal Finance Tracker**  

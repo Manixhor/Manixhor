@@ -50,7 +50,7 @@ ROWS = [
     ("kv", "Name", "Mani"),
     ("kv", "Role", "Backend + Full Stack Developer"),
     ("kv", "Focus", "REST APIs, HRMS, workflows"),
-    ("kv", "Exp", "6+ months production systems"),
+    ("kv", "Exp", "8+ months production systems"),
     ("gap",),
     ("sec", "Stack"),
     ("kv", "Backend", "Python, Django, DRF, FastAPI"),
@@ -69,10 +69,10 @@ ROWS = [
     ("bul", "CS50 Python - Harvard University"),
     ("gap",),
     ("sec", "Highlights"),
+    ("bul", "La Suite Docs PR #2708 merged"),
     ("bul", "Built 7 HRMS modules for staff use"),
     ("bul", "Automated HR email workflows"),
     ("bul", "Developed SpendWise DRF backend"),
-    ("bul", "Deployed production Django apps"),
 ]
 
 
