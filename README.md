@@ -20,6 +20,7 @@
 Backend-focused developer building REST APIs, HRMS modules, automation workflows, and production-ready web apps with Python, Django, DRF, SQL, and JavaScript.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Mani-0d1117?style=for-the-badge&logo=vercel&logoColor=white)](https://manis-portfolio-dev.vercel.app/)
+[![Blog](https://img.shields.io/badge/Blog-Mani-0d1117?style=for-the-badge&logo=readme&logoColor=white)](https://manis-portfolio-dev.vercel.app/blogs/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Mani-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manikanta-gururam/)
 [![Email](https://img.shields.io/badge/Email-manigururam06%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:manigururam06@gmail.com)
 
