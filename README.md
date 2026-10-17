@@ -8,7 +8,7 @@
 
 <table>
 <tr>
-<td valign="top"><img src="./white-falling-stars.svg" width="370" alt="White falling stars reveal Mani’s portrait" /></td>
+<td valign="top"><img src="./white-falling-stars-fast.svg" width="370" alt="White falling stars reveal Mani’s portrait" /></td>
 <td valign="top"><img src="./info-card.svg" width="350" alt="Experience, stack, highlights" /></td>
 </tr>
 </table>
