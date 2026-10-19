@@ -20,6 +20,7 @@
 Backend-focused developer building REST APIs, HRMS modules, automation workflows, and production-ready web apps with Python, Django, DRF, SQL, and JavaScript.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Mani-0d1117?style=for-the-badge&logo=vercel&logoColor=white)](https://manis-portfolio-dev.vercel.app/)
+[![Resume](https://img.shields.io/badge/Resume-PDF-0d1117?style=for-the-badge&logo=readme&logoColor=white)](https://res.cloudinary.com/n7cxrd3p/image/upload/v1792428709/mani_portfolio/resumes/23621763-41dc-40be-ae9d-6eac227943dc.pdf)
 [![Blog](https://img.shields.io/badge/Blog-Mani-0d1117?style=for-the-badge&logo=readme&logoColor=white)](https://manis-portfolio-dev.vercel.app/blogs/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Mani-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manikanta-gururam/)
 [![Email](https://img.shields.io/badge/Email-manigururam06%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:manigururam06@gmail.com)
@@ -71,6 +72,11 @@ Built attendance, leave, reporting, employee management, HR operations, asset ma
 
 **Water Potability Prediction System**  
 Machine learning classification project using Python and scikit-learn with preprocessing, model benchmarking, hyperparameter tuning, and evaluation reports across water quality parameters.
+[Live Demo](https://waterpotabilitysystem.promptcraft-worker.workers.dev/)
+
+**Document Q&A Bot**  
+Ask questions about PDF, TXT, and DOCX files with source-cited answers.
+[Live Demo](https://app-bot-document-f4vzh3ghty7n23j6gmzbse.streamlit.app/)
 
 ## What I Build
 
