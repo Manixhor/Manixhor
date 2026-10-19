@@ -9,7 +9,7 @@
 <table>
 <tr>
 <td valign="top"><img src="./white-falling-stars-fast.svg" width="370" alt="White falling stars reveal Mani’s portrait" /></td>
-<td valign="top"><img src="./info-card.svg" width="350" alt="Experience, stack, highlights" /></td>
+<td valign="top"><img src="./info-card.svg?v=20261019-merged-prs" width="350" alt="Experience, stack, highlights" /></td>
 </tr>
 </table>
 
@@ -49,14 +49,15 @@ Backend-focused developer building REST APIs, HRMS modules, automation workflows
 ## Open-Source Experience
 
 **Open-Source Contributor - La Suite Docs**  
-*September 2026*
+*September–October 2026*
 
-
-- La Suite Docs is an open-source collaborative document editor created and operated by DINUM, the French government's digital transformation department, with support from European public-sector partners.
-- Fixed a callout formatting bug in a collaborative document editor.
-- Added regression tests covering text preservation, formatting, deletion, and Undo behavior.
-- PR approved by a maintainer and merged after automated CI checks passed.
-- [Merged PR #2708](https://github.com/suitenumerique/docs/pull/2708)
+- Contributed to La Suite Docs, an open-source collaborative document editor developed within France’s public digital-service ecosystem.
+- Fixed a Backspace bug that left callout background formatting behind when converting a callout into a paragraph.
+- Strengthened backend API permission checks so document duplication and favorites listing respect configured resource-server action restrictions.
+- Added regression tests covering callout behavior, text preservation, and allowed/denied API actions.
+- Both contributions were approved by maintainers and merged after automated CI checks passed.
+- [Merged PR #2708 — Callout Backspace fix](https://github.com/suitenumerique/docs/pull/2708)
+- [Merged PR #2745 — Resource-server permission checks](https://github.com/suitenumerique/docs/pull/2745)
 
 ## Featured Work
 
