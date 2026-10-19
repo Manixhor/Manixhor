@@ -1,34 +1,87 @@
-# Mani | Python & Django Developer
+<div align="center">
 
-I build backend systems, REST APIs, and practical web applications with Python, Django, and SQL.
+<img src="./contrib-heatmap.svg?v=20261019T075942Z-a4e67666" width="760" alt="GitHub contribution graph" />
 
-[Portfolio](https://manis-portfolio-dev.vercel.app/) · [Resume](https://res.cloudinary.com/n7cxrd3p/image/upload/v1792428709/mani_portfolio/resumes/23621763-41dc-40be-ae9d-6eac227943dc.pdf) · [LinkedIn](https://www.linkedin.com/in/manikanta-gururam/) · [Email](mailto:manigururam06@gmail.com)
+<br>
 
-## Skills
+<br>
 
-Python · Django · Django REST Framework · FastAPI · PostgreSQL · MySQL · JavaScript · React · Docker · Git · CI/CD
+<table>
+<tr>
+<td valign="top"><img src="./white-falling-stars-fast.svg" width="370" alt="White falling stars reveal Mani’s portrait" /></td>
+<td valign="top"><img src="./info-card.svg" width="350" alt="Experience, stack, highlights" /></td>
+</tr>
+</table>
 
-## Experience
+## Mani
 
-**Python Developer Intern · Lagran Software Solutions Pvt Ltd** | Dec 2025 – Aug 2026
+**Python/Django Developer · Backend Systems · Workflow Automation**
 
-- Built production HRMS modules for attendance, leave, employee management, and assets, reaching 100% staff adoption and saving about 5 hours of manual tracking each week.
-- Automated leave approval emails, cutting HR response time by 60%.
-- Launched a Django property platform and maintained two concurrent production projects.
+Backend-focused developer building REST APIs, HRMS modules, automation workflows, and production-ready web apps with Python, Django, DRF, SQL, and JavaScript.
 
-**Open-Source Contributor · La Suite Docs** | Sep 2026
+[![Portfolio](https://img.shields.io/badge/Portfolio-Mani-0d1117?style=for-the-badge&logo=vercel&logoColor=white)](https://manis-portfolio-dev.vercel.app/)
+[![Blog](https://img.shields.io/badge/Blog-Mani-0d1117?style=for-the-badge&logo=readme&logoColor=white)](https://manis-portfolio-dev.vercel.app/blogs/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mani-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manikanta-gururam/)
+[![Email](https://img.shields.io/badge/Email-manigururam06%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:manigururam06@gmail.com)
 
-- Fixed callout formatting and added eight regression cases; the three-file patch was approved and merged after CI checks.
+<br>
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![DRF](https://img.shields.io/badge/DRF-BA2121?style=flat-square&logo=django&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=111111)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=111111)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=111111)
+
+<br>
+
+</div>
+
+## Open-Source Experience
+
+**Open-Source Contributor - La Suite Docs**  
+*September 2026*
+
+
+- La Suite Docs is an open-source collaborative document editor created and operated by DINUM, the French government's digital transformation department, with support from European public-sector partners.
+- Fixed a callout formatting bug in a collaborative document editor.
+- Added regression tests covering text preservation, formatting, deletion, and Undo behavior.
+- PR approved by a maintainer and merged after automated CI checks passed.
 - [Merged PR #2708](https://github.com/suitenumerique/docs/pull/2708)
 
-## Projects
+## Featured Work
 
-- **SpendWise** — Personal finance tracker with savings goals, budgeting, and financial analytics. [Live demo](https://site--spendwise--m9lhjm5ftxzt.code.run/) · [Source](https://github.com/Manixhor/spendwise)
-- **Water Potability Prediction** — Classifies water quality using machine learning across nine features. [Live demo](https://waterpotabilitysystem.promptcraft-worker.workers.dev/) · [Source](https://github.com/Manixhor/Water_Potability_System)
-- **Document Q&A Bot** — Ask questions about PDF, TXT, and DOCX files with source-cited answers. [Live demo](https://app-bot-document-f4vzh3ghty7n23j6gmzbse.streamlit.app/) · [Source](https://github.com/Manixhor/QA-Bot-Document)
+**Self-Hosted Raspberry Pi Home Server & Service Monitoring Dashboard**
+Consolidated photo management, media streaming, and file sharing on a Raspberry Pi 4 using Debian Linux, Docker Compose, SSD storage, Samba/SMB, Immich, Jellyfin, and File Browser. Built a Python LCD dashboard to track service states, weather metrics, system health, and startup recovery.
 
-## Education
+**SpendWise - Personal Finance Tracker**
+Savings-goal allocation app with a Django REST backend, PostgreSQL database, custom admin analytics, JWT authentication, role-based access, and production deployment on Render.
+[Live Demo](https://site--spendwise--m9lhjm5ftxzt.code.run/)
 
-**B.Tech, Computer Science and Engineering** · Vellore Institute of Technology | 2021–2025
+**Production HRMS Modules**  
+Built attendance, leave, reporting, employee management, HR operations, asset management, and background verification modules used daily by company staff.
 
-CS50 Introduction to Programming with Python
+**Water Potability Prediction System**  
+Machine learning classification project using Python and scikit-learn with preprocessing, model benchmarking, hyperparameter tuning, and evaluation reports across water quality parameters.
+
+## What I Build
+
+- REST APIs with Django REST Framework and FastAPI
+- Backend dashboards, admin workflows, and database-backed systems
+- Authentication, JWT, role-based access, forms, reporting, and automation flows
+- Raspberry Pi services, Linux deployment, Docker Compose, and monitoring dashboards
+- Full-stack web apps with HTML5, CSS3, JavaScript, SQL, and cloud deployment
+
+## Open To
+
+Python Backend Developer, Django Developer, Backend Developer, Full Stack Developer, Software Engineer Associate, and Data Engineer roles.
+
+Reach me: [manigururam06@gmail.com](mailto:manigururam06@gmail.com)
